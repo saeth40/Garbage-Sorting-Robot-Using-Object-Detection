@@ -3,7 +3,7 @@
 
 Advisor: Associate Professor Gridsada Phanomchoeng
 
-# C: Arduino code to control sensors and actuators
+# C ++: Arduino code to control sensors and actuators
 
 # Python: object detectoin, IOT Netpie server
 
