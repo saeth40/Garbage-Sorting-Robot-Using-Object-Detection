@@ -1,3 +1,5 @@
+# These files are used in training process in: https://github.com/saeth40/object_detection_demo
+
 Trash2 contains Tensorflow model information
 
 1. graph.pb
