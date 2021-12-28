@@ -32,6 +32,11 @@ All details:
 2. [CAD design](https://github.com/saeth40/Garbage-Sorting-Robot-Using-Object-Detection/tree/main/CAD)
 3. [List of equipment](https://github.com/saeth40/Garbage-Sorting-Robot-Using-Object-Detection/tree/main/Equipment)
 
+## Programing and testing
+
+
+
+
 
 # C ++: Arduino code to control sensors and actuators
 
