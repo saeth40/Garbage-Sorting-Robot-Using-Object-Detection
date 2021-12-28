@@ -3,7 +3,7 @@
 
 Advisor: Associate Professor Gridsada Phanomchoeng
 
-A short demo VDO: https://www.youtube.com/watch?v=DpFVvP5Zfqo
+A short demo VDO: [Click here](https://www.youtube.com/watch?v=DpFVvP5Zfqo).
 
 # C ++: Arduino code to control sensors and actuators
 
