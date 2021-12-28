@@ -5,7 +5,7 @@ Advisor: Associate Professor Gridsada Phanomchoeng
 
 A short demo VDO: [Click here](https://www.youtube.com/watch?v=DpFVvP5Zfqo).
 
-![](Images/gstMain.png)
+
 
 ## Data collection
 ### 1. Types of garbage
