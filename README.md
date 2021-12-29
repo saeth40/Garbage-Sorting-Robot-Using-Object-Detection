@@ -39,7 +39,7 @@
 
 
 ## Programing and testing
-### Testing object detection with Netpie IoT server to track system's behaviour
+### Training and testing object detection with Netpie IoT server to track system's behaviour
 
 ![](Images/gstDemoNetpie.png)
 
