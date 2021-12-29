@@ -1,7 +1,9 @@
 # Garbage-Sorting-Robot-Using-Object-Detection
 2103499 Mechanical Engineering Project, Chulalongkorn University  2019-2020
 
-Advisor: Associate Professor Gridsada Phanomchoeng
+***Advisor:*** Associate Professor Gridsada Phanomchoeng
+
+***Objective:*** Improve the waste management in Thailand by creating a users-friendly robot that can automatically classify various types of garbage with high accuracy and work fast.
 
 ### A short demo VDO: [Click here](https://www.youtube.com/watch?v=DpFVvP5Zfqo).
 
