@@ -44,7 +44,7 @@
 ![](Images/gstDemoNetpie.png)
 
 
-### Deploying model
+### Deploying model in the robot
 
 ![](Images/gstObjPlastic.png)
 ![](Images/gstObjAluminium.png)
