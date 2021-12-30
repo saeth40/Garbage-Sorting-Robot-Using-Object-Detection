@@ -55,6 +55,6 @@
 ### All details
 1. [Flowchart and wiring diagram](https://github.com/saeth40/Garbage-Sorting-Robot-Using-Object-Detection/tree/main/Flowchart%20and%20wiring%20diagram)
 2. [C++ in Arduino to control sensors and actuators](https://github.com/saeth40/Garbage-Sorting-Robot-Using-Object-Detection/tree/main/C%20%2B%2B)
-3. [Python to train and deploy object detection with IoT server]()
+3. [Python to train and deploy object detection with IoT server](https://github.com/saeth40/Garbage-Sorting-Robot-Using-Object-Detection/tree/main/Python)
 4. [Models used in this project](https://github.com/saeth40/Garbage-Sorting-Robot-Using-Object-Detection/tree/main/Python)
 5. [Test results](https://github.com/saeth40/Garbage-Sorting-Robot-Using-Object-Detection/tree/main/Result)
