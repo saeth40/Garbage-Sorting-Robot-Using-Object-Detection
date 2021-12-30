@@ -16,3 +16,7 @@
 # object_detection_tutorial
 
 = tutorial in: https://github.com/saeth40/object_detection_demo
+
+# Train_object_detection
+
+= train the model used in this project
